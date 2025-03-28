@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wuyou0789.github.io/blog/sitemap.xml

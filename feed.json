@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "技术分享",
+    "description": "",
+    "home_page_url": "https://wuyou0789.github.io/blog",
+    "feed_url": "https://wuyou0789.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HeYuan"
+    },
+    "items": [
+    ]
+}
